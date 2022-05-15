@@ -1,2 +1,1 @@
-# Trace
-![Trace's Most used java go](https://github-readme-stats.vercel.app/api/top-langs?username=Trace GitHub ID&show_icons=true&count_private=true&theme=gotham)
+![Trace's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trace GitHub ID&layout=compact&hide_border=true&langs_count=10)
